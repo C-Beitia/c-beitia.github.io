@@ -5,5 +5,5 @@ Hi I'm Chandler! I am an Electrical Engineering Senior at Boise State University
 
 
 
-
+*You can find the video stored here*
 [![Introduction Video](https://github.com/C-Beitia/c-beitia.github.io/blob/main/color.png)](https://github.com/C-Beitia/c-beitia.github.io/blob/main/IntroductionVideo.mp4)
